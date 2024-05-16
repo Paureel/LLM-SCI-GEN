@@ -36,7 +36,7 @@ The repo is maintained by myself only for now. Feel free to connect with me on L
 
 ### Research papers
 
-
+## Agentic workflows
 
 ## Contribution
 ### 👥 Contributors
