@@ -28,7 +28,7 @@ The repo is maintained by myself only for now. Feel free to connect with me on L
 
 ##  Papers
 
-### Review papers
+### Review and short papers
 - \[[Link](https://onlinelibrary.wiley.com/doi/full/10.1002/leap.1570)\] Artificial intelligence to support publishing and peer review: A summary and review. `2023`
 
 
@@ -44,9 +44,16 @@ The repo is maintained by myself only for now. Feel free to connect with me on L
 - \[[arxiv](https://arxiv.org/html/2402.17879v1)\] Automated Statistical Model Discovery with Language Models. `2024`
 - \[[arxiv](https://arxiv.org/abs/2309.05660)\] Hypothesis Search: Inductive Reasoning with Language Models. `2023`
 - \[[arxiv](https://arxiv.org/abs/2310.08559)\] Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement. `2023`
+- \[[arxiv](https://arxiv.org/abs/2304.12208)\] Can ChatGPT be used to generate scientific hypotheses? `2023`
+- \[[arxiv](https://arxiv.org/abs/2306.11648)\] Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy `2023`
+- \[[arxiv](https://arxiv.org/abs/2404.07738)\] ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models `2023`
 
 
-## Agentic workflows
+
+
+
+
+## Methods
 
 - \[[Link](https://github.com/assafelovic/gpt-researcher/tree/master/multi_agents)\] LangGraph x GPT Researcher `2023`
 
