@@ -1,4 +1,4 @@
-# LLM-SCI-GEN
+# Generating scientific hypotheses with Large Language Models
 Papers about scientific hypothesis generation with large language models (LLMs).
 
 
@@ -8,7 +8,6 @@ Papers about scientific hypothesis generation with large language models (LLMs).
 ![](https://img.shields.io/github/last-commit/Paureel/LLM-SCI-GEN?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-# LLM-SCI-GEN
 
 Papers about scientific hypothesis generation with large language models (LLMs).
 
@@ -46,7 +45,7 @@ The repo is maintained by myself only for now. Feel free to connect with me on L
 - \[[arxiv](https://arxiv.org/abs/2310.08559)\] Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement. `2023`
 - \[[arxiv](https://arxiv.org/abs/2304.12208)\] Can ChatGPT be used to generate scientific hypotheses? `2023`
 - \[[arxiv](https://arxiv.org/abs/2306.11648)\] Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy `2023`
-- \[[arxiv](https://arxiv.org/abs/2404.07738)\] ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models `2023`
+- \[[arxiv](https://arxiv.org/abs/2404.07738)\] ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models `2024`
 
 
 
