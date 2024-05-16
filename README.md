@@ -29,14 +29,30 @@ The repo is maintained by myself only for now. Feel free to connect with me on L
 ##  Papers
 
 ### Review papers
-
+- \[[Link](https://onlinelibrary.wiley.com/doi/full/10.1002/leap.1570)\] Artificial intelligence to support publishing and peer review: A summary and review. `2023`
 
 
 
 
 ### Research papers
 
+- \[[arxiv](https://arxiv.org/pdf/2311.05965)\] Large Language Models are Zero Shot Hypothesis Proposers. `2023`
+- \[[Link](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d3dd00185g)\] Machine learning for hypothesis generation in biology and medicine: exploring the latent space of neuroscience and developmental bioelectricity. `2024`
+- \[[arxiv](https://arxiv.org/abs/2402.14424)\] Automating Psychological Hypothesis Generation with AI: Large Language Models Meet Causal Graph. `2024`
+- \[[arxiv](https://arxiv.org/abs/2303.12003)\] Artificial muses: Generative Artificial Intelligence Chatbots Have Risen to Human-Level Creativity. `2023`
+- \[[Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526071)\] Ideas are Dimes a Dozen: Large Language Models for Idea Generation in Innovation. `2023`
+- \[[arxiv](https://arxiv.org/html/2402.17879v1)\] Automated Statistical Model Discovery with Language Models. `2024`
+- \[[arxiv](https://arxiv.org/abs/2309.05660)\] Hypothesis Search: Inductive Reasoning with Language Models. `2023`
+- \[[arxiv](https://arxiv.org/abs/2310.08559)\] Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement. `2023`
+
+
 ## Agentic workflows
+
+- \[[Link](https://github.com/assafelovic/gpt-researcher/tree/master/multi_agents)\] LangGraph x GPT Researcher `2023`
+
+## Other related papers
+
+- \[[arxiv](https://arxiv.org/abs/2312.06820)\] Extracting Self-Consistent Causal Insights from Users Feedback with LLMs and In-context Learning. `2023`
 
 ## Contribution
 ### 👥 Contributors
