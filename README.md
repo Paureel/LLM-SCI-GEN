@@ -15,7 +15,7 @@ Papers about scientific hypothesis generation with large language models (LLMs).
 
 📚 Contribute: We encourage you to recommend any missing papers! Your contributions help us keep our repository up-to-date and valuable for the community. You can submit recommendations through Adding Issues or Pull Requests. Your participation is greatly appreciated and vital to the growth and accuracy of our collection.
 
-📝 Details and Classification: For a detailed summary and classification of papers, please refer to our wiki. Here, you'll find organized information that helps you navigate the extensive research landscape of LLMs in scientific hypothesis generation.
+📝 Details and Classification: For a detailed summary and classification of papers, please refer to our wiki. Here, you'll find organized information that helps you navigate the extensive research in this field.
 
 Thank you for being a part of our community and contributing to the advancement of knowledge in this exciting field!
 
