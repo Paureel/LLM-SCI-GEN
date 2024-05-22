@@ -46,7 +46,7 @@ The repo is maintained by myself only for now. Feel free to connect with me on L
 - \[[arxiv](https://arxiv.org/abs/2304.12208)\] Can ChatGPT be used to generate scientific hypotheses? `2023`
 - \[[arxiv](https://arxiv.org/abs/2306.11648)\] Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy `2023`
 - \[[arxiv](https://arxiv.org/abs/2404.07738)\] ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models `2024`
-- - \[[biorxiv](https://www.biorxiv.org/content/10.1101/2024.04.08.588614v2)\] Replicating a High-Impact Scientific Publication Using Systems of Large Language Models `2024`
+- \[[biorxiv](https://www.biorxiv.org/content/10.1101/2024.04.08.588614v2)\] Replicating a High-Impact Scientific Publication Using Systems of Large Language Models `2024`
 
 
 
