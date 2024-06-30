@@ -48,6 +48,7 @@ The repo is maintained by myself only for now. Feel free to connect with me on L
 - \[[arxiv](https://arxiv.org/abs/2404.07738)\] ResearchAgent: Iterative Research Idea Generation over Scientific Literature with Large Language Models `2024`
 - \[[biorxiv](https://www.biorxiv.org/content/10.1101/2024.04.08.588614v2)\] Replicating a High-Impact Scientific Publication Using Systems of Large Language Models `2024`
 - \[[arxiv](https://arxiv.org/abs/2405.12258)\] Scientific Hypothesis Generation by a Large Language Model: Laboratory Validation in Breast Cancer Treatment `2024`
+- \[[arxiv](https://arxiv.org/abs/2404.17605)\] Autonomous LLM-driven research from data to human-verifiable research papers `2024`
 
 
 
