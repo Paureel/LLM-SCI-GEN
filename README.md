@@ -81,7 +81,7 @@ The repo is maintained by myself only for now. Feel free to connect with me on L
 
 - 🔍 Double-check for accuracy and completeness. Ensuring the information is accurate and comprehensive helps maintain the quality and reliability of the repository, making it a valuable resource for all users.
 
-![Star History Chart](https://star-history.com/#Paureel/LLM-SCI-GEN&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Paureel/LLM-SCI-GEN&type=Date)](https://star-history.com/#Paureel/LLM-SCI-GEN&Date)
 
 
 
