@@ -58,6 +58,7 @@ The repo is maintained by myself only for now. Feel free to connect with me on L
 ## Methods
 
 - \[[Link](https://github.com/assafelovic/gpt-researcher/tree/master/multi_agents)\] LangGraph x GPT Researcher `2023`
+- \[[Link](https://github.com/SakanaAI/AI-Scientist)\] AI-Scientist by SakanaAI `2024`
 
 ## Other related papers
 
