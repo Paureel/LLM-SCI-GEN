@@ -51,8 +51,8 @@ The repo is maintained by myself only for now. Feel free to connect with me on L
 - \[[arxiv](https://arxiv.org/abs/2404.17605)\] Autonomous LLM-driven research from data to human-verifiable research papers `2024`
 - \[[arxiv](https://www.arxiv.org/abs/2409.04109)\] Can LLMs Generate Novel Research Ideas? `2024`
 - \[[Link](https://storage.googleapis.com/fh-public/paperqa/Language_Agents_Science.pdf)\] Language Agents Achieve Superhuman Synthesis of Scientific Knowledge `2024`
-- \[[Link](https://arxiv.org/abs/2404.04326)\] Hypothesis Generation with Large Language Models `2024`
-- \[[Link](https://arxiv.org/abs/2409.14634)\] Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination `2024`
+- \[[arxiv](https://arxiv.org/abs/2404.04326)\] Hypothesis Generation with Large Language Models `2024`
+- \[[arxiv](https://arxiv.org/abs/2409.14634)\] Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination `2024`
 
 
 
