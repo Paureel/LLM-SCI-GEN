@@ -29,6 +29,7 @@ The repo is maintained by myself only for now. Feel free to connect with me on L
 
 ### Review and short papers
 - \[[Link](https://onlinelibrary.wiley.com/doi/full/10.1002/leap.1570)\] Artificial intelligence to support publishing and peer review: A summary and review. `2023`
+- \[[arxiv](https://arxiv.org/html/2407.08940v1)\] Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation `2024`
 
 
 
