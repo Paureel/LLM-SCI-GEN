@@ -55,6 +55,7 @@ The repo is maintained by myself only for now. Feel free to connect with me on L
 - \[[arxiv](https://arxiv.org/abs/2404.04326)\] Hypothesis Generation with Large Language Models `2024`
 - \[[arxiv](https://arxiv.org/abs/2409.14634)\] Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination `2024`
 - \[[arxiv](https://arxiv.org/html/2406.06769v1)\] DiscoveryWorld: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents `2024`
+- \[[arxiv](https://arxiv.org/abs/2410.14255v1)\] Nova: An Iterative Planning and Search Approach to Enhance Novelty and Diversity of LLM Generated Ideas `2024`
 
 
 
