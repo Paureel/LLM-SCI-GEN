@@ -30,6 +30,7 @@ The repo is maintained by myself only for now. Feel free to connect with me on L
 ### Review and short papers
 - \[[Link](https://onlinelibrary.wiley.com/doi/full/10.1002/leap.1570)\] Artificial intelligence to support publishing and peer review: A summary and review. `2023`
 - \[[arxiv](https://arxiv.org/html/2407.08940v1)\] Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation `2024`
+- \[[Github](https://aidantr.github.io/files/AI_innovation.pdf)\] Artificial Intelligence, Scientific Discovery, and Product Innovation `2024`
 
 
 
@@ -56,6 +57,8 @@ The repo is maintained by myself only for now. Feel free to connect with me on L
 - \[[arxiv](https://arxiv.org/abs/2409.14634)\] Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination `2024`
 - \[[arxiv](https://arxiv.org/html/2406.06769v1)\] DiscoveryWorld: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents `2024`
 - \[[arxiv](https://arxiv.org/abs/2410.14255v1)\] Nova: An Iterative Planning and Search Approach to Enhance Novelty and Diversity of LLM Generated Ideas `2024`
+- \[[arxiv](https://arxiv.org/abs/2410.13185)\] Chain of Ideas: Revolutionizing Research Via Novel Idea Development with LLM Agents `2024`
+- \[[arxiv](https://arxiv.org/abs/2411.02382)\] Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models `2024`
 
 
 
