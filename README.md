@@ -59,6 +59,7 @@ The repo is maintained by myself only for now. Feel free to connect with me on L
 - \[[arxiv](https://arxiv.org/abs/2410.14255v1)\] Nova: An Iterative Planning and Search Approach to Enhance Novelty and Diversity of LLM Generated Ideas `2024`
 - \[[arxiv](https://arxiv.org/abs/2410.13185)\] Chain of Ideas: Revolutionizing Research Via Novel Idea Development with LLM Agents `2024`
 - \[[arxiv](https://arxiv.org/abs/2411.02382)\] Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models `2024`
+- \[[Link](https://storage.googleapis.com/coscientist_paper/ai_coscientist.pdf)\] Accelerating scientific breakthroughs with an AI co-scientist `2025`
 
 
 
