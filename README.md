@@ -62,6 +62,9 @@ The repo is maintained by myself only for now. Feel free to connect with me on L
 - \[[arxiv](https://arxiv.org/abs/2410.13185)\] Chain of Ideas: Revolutionizing Research Via Novel Idea Development with LLM Agents `2024`
 - \[[arxiv](https://arxiv.org/abs/2411.02382)\] Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models `2024`
 - \[[Link](https://storage.googleapis.com/coscientist_paper/ai_coscientist.pdf)\] Accelerating scientific breakthroughs with an AI co-scientist `2025`
+- \[[arxiv](https://arxiv.org/abs/2505.19209)\] MOOSE-Chem2: Exploring LLM Limits in Fine-Grained Scientific Hypothesis Discovery via Hierarchical Search `2025`
+- \[[arxiv](https://arxiv.org/abs/2502.18864)\] Towards an AI co-scientist `2025`
+- \[[arxiv](https://arxiv.org/abs/2505.13400)\] Robin: A multi-agent system for automating scientific discovery `2025`
 
 
 
