@@ -31,6 +31,8 @@ The repo is maintained by myself only for now. Feel free to connect with me on L
 - \[[Link](https://onlinelibrary.wiley.com/doi/full/10.1002/leap.1570)\] Artificial intelligence to support publishing and peer review: A summary and review. `2023`
 - \[[arxiv](https://arxiv.org/html/2407.08940v1)\] Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation `2024`
 - \[[Github](https://aidantr.github.io/files/AI_innovation.pdf)\] Artificial Intelligence, Scientific Discovery, and Product Innovation `2024`
+- \[[arxiv](https://arxiv.org/abs/2505.04651)\] Scientific Hypothesis Generation and Validation: Methods, Datasets, and Future Directions `2025`
+- \[[arxiv](https://arxiv.org/abs/2504.05496)\] A Survey on Hypothesis Generation for Scientific Discovery in the Era of Large Language Models `2025`
 
 
 
