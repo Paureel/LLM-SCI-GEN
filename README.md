@@ -1,5 +1,4 @@
 # Generating scientific hypotheses with Large Language Models
-Papers about scientific hypothesis generation with large language models (LLMs).
 
 
 
